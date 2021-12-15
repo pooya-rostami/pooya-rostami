@@ -29,6 +29,10 @@
 <br />
 <br />
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooya-rostami)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: http://pooya-rostami.github.io/
 [twitter]: https://www.twitter.com/Pooya_r_m
 [youtube]: https://www.youtube.com/channel/UCsMO9QhnQ2UUh1g_lDlVVBQ
