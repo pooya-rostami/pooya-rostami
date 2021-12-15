@@ -31,7 +31,10 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooya-rostami)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pooya-rostami&include_all_commits=True&count_private=True&show_icons=True)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pooya-rostami&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [website]: http://pooya-rostami.github.io/
 [twitter]: https://www.twitter.com/Pooya_r_m
