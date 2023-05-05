@@ -3,15 +3,13 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Student, and Researcher!!
+## I'm a PhD Student, and Researcher!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love seeing the world and take photos
+- Currently studying GitHub Actions and try to improve it by end of my PhD ;)
+- Love seeing the world and take photos whenever possible
 
 ### Connect with me:
 
-<!-- [<img align="left" alt="pooya rostami | website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="pooya rostami | website" width="22px" src="https://github.com/pooya-rostami/pooya-rostami/blob/main/icons/globe.png" />][website]
 [<img align="left" alt="pooya rostami | YouTube" width="55px" src="https://github.com/pooya-rostami/pooya-rostami/blob/main/icons/youtube.png" />][youtube]
 [<img align="left" alt="pooya rostami | Twitter" width="22px" src="https://github.com/pooya-rostami/pooya-rostami/blob/main/icons/twitter.svg" />][twitter]
