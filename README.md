@@ -12,11 +12,11 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="pooya rostami | website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="pooya rostami | website" width="22px" src="https://github.com/pooya-rostami/pooya-rostami/icons/globe.png" />][website]
-[<img align="left" alt="pooya rostami | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="pooya rostami | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="pooya rostami | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="pooya rostami | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="pooya rostami | website" width="22px" src="https://github.com/pooya-rostami/pooya-rostami/blob/main/icons/globe.png" />][website]
+[<img align="left" alt="pooya rostami | YouTube" width="55px" src="https://github.com/pooya-rostami/pooya-rostami/blob/main/icons/youtube.png" />][youtube]
+[<img align="left" alt="pooya rostami | Twitter" width="22px" src="https://github.com/pooya-rostami/pooya-rostami/blob/main/icons/twitter.svg" />][twitter]
+[<img align="left" alt="pooya rostami | LinkedIn" width="22px" src="https://github.com/pooya-rostami/pooya-rostami/blob/main/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="pooya rostami | Instagram" width="28px" src="https://github.com/pooya-rostami/pooya-rostami/blob/main/icons/instagram.png" />][instagram]
 
 <br />
 
