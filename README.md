@@ -3,9 +3,10 @@
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a PhD Student, and Researcher!!
+## I'm a Cloud Developer, and a Researcher!!
 
-- Currently studying GitHub Actions and try to improve it by end of my PhD ;)
+- Learning about AWS cloud technologies
+- Studying GitHub Actions and try to improve it by end of my PhD ;)
 - Love seeing the world and take photos whenever possible
 
 ### Connect with me:
